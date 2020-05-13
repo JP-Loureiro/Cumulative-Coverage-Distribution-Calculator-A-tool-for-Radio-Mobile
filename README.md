@@ -1,10 +1,8 @@
-****************************************************
-**                                                 *
-**   CUMULATIVE COVERAGE DISTRIBUTION CALCULATOR:  *
-**             A TOOL FOR RADIO MOBILE             *
-**                  COMO-FEUP 2019                 *
-**           João Loureiro & Luís Borges           *                
-**                                                 *
+****************************************************                                              
+   CUMULATIVE COVERAGE DISTRIBUTION CALCULATOR:  
+             A TOOL FOR RADIO MOBILE             
+                  COMO-FEUP 2019                 
+           João Loureiro & Luís Borges                                                     
 ****************************************************
 
 How to use this program (in linux/UNIX terminal):
