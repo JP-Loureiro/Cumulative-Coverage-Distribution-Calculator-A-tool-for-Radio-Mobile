@@ -15,4 +15,4 @@ How to use this program (in linux/UNIX terminal):
 
 4) Ready! The Results will be presented in terminal.
 
-**the .txt file exported after the Combined Cartesian Coverage simulation
+\*the .txt file exported after the Combined Cartesian Coverage simulation
