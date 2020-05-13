@@ -17,7 +17,7 @@ How to use this program (in linux/UNIX terminal):
 
 \*the .txt file exported after the Combined Cartesian Coverage simulation
 
-**Example of Output**
+**Example of Output :**
 
 ![Example of Output](example.png)
 
